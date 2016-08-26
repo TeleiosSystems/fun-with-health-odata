@@ -1,0 +1,950 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Health Facilities</name>
+		<Placemark>
+			<name>Woodbrook Health Centre</name>
+			<description><![CDATA[Tragarete Road, Woodbrook<br>(868)-622-2045]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.51995600000001,10.663007,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Port-of-Spain General Hospital</name>
+			<description><![CDATA[Upper Charlotte Street, Port-of-Spain<br>(868)-623-2951]]></description>
+			<styleUrl>#icon-73</styleUrl>
+			<Point>
+				<coordinates>-61.508196999999996,10.662058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oxford Street Enhanced Health Centre</name>
+			<description><![CDATA[Corner Observatory Street and Oxford Street, Port-of-Spain<br>(868)-623-6741]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.506840000000004,10.659369,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. James District Health Facility</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.538356,10.67365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>National Radiotherapy Centre</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.539434,10.673898,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Ann's Hospital (Mental Health)</name>
+			<styleUrl>#icon-73-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.506668,10.681584,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Fernando General Hospital</name>
+			<styleUrl>#icon-73-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.46909600000001,10.279208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Couva District Health Facility</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.450701,10.421474,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eric Williams Medical Sciences Complex</name>
+			<styleUrl>#icon-73-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.42396000000001,10.646817,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Hope Maternity Hospital</name>
+			<styleUrl>#icon-73-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.421771,10.648925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chaguanas District Health Facility</name>
+			<description><![CDATA[Main Road and Galt St., Chaguanas<br>(868)-665-8958]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.399707,10.514121000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>George Street Health Centre</name>
+			<description><![CDATA[George Street, Port-of-Spain<br>(868)-623-5155]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.507156,10.65454,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pleasantville Health Centre</name>
+			<description><![CDATA[Chaconia Avenue and Prince Albert Streets, Pleasantville<br>(868)-653-0521]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.449851,10.267068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marabella Health Centre</name>
+			<description><![CDATA[Market Street, Marabella<br>(868)-658-0470]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.444119,10.303432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Romain Health Centre</name>
+			<description><![CDATA[Zaida Lane, La Romain<br>(868)-657-1673]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.480383,10.252251,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Williamsville Health Centre</name>
+			<description><![CDATA[Main Road, Williamsville<br>(868)-655-1751]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.379470000000005,10.315816,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Freeport Health Centre</name>
+			<description><![CDATA[St. Mary's Junction, Freeport<br>(868)-673-0021]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.420033,10.464006000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arima District Health Facility</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.285102,10.636246,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Petit Valley Health Centre</name>
+			<description><![CDATA[Simeon Road, Petit Valley<br>(868)-637-3284]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.55110200000001,10.69812,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carenage Health Centre</name>
+			<description><![CDATA[Constabulary Street, Carenage<br>(868)-632-1860]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.59501,10.68559,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grande Riviere Health Centre</name>
+			<description><![CDATA[Grande Riviere<br>(868)-670-8264]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.050934,10.827963,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Princes Town District Health Facility</name>
+			<description><![CDATA[Circular Road, Princes Town]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.380841000000004,10.268712,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Point Fortin Area Hospital</name>
+			<styleUrl>#icon-73-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.67739100000001,10.181103,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caura Hospital (Chest Services)</name>
+			<styleUrl>#icon-73-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.370476,10.655315,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maraval Health Centre</name>
+			<description><![CDATA[Saddle Road, Maraval<br>(868)-629-2043]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.51126,10.707618,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Diego Martin Health Centre</name>
+			<description><![CDATA[Church Street, Diego Martin<br>(868)-637-9308]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.563435,10.721982,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barataria Health Centre</name>
+			<description><![CDATA[Eastern Main Road and Seventh Street, Barataria<br>(868)-638-2124]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.463007,10.650351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cumuto Health Centre</name>
+			<description><![CDATA[Main Road, Cumuto<br>(868)-643-9075]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.20847100000001,10.589472000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coryal Health Centre</name>
+			<description><![CDATA[Corner Balata Hill Road and Cumuto Main Road, Coryal<br>(868)-668-8066]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.17971,10.521018,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sangre Grande Health Centre</name>
+			<description><![CDATA[Henderson Street, Sangre Grande<br>(868)-668-2509]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.12753300000001,10.58712,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sangre Grande Hospital</name>
+			<description><![CDATA[Ojoe Road, Sangre Grande]]></description>
+			<styleUrl>#icon-73</styleUrl>
+			<Point>
+				<coordinates>-61.131915000000006,10.596464,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Valencia Health Centre</name>
+			<description><![CDATA[Alexander Street, Valencia<br>(868)-667-8197]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.20126100000001,10.653802,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Matura Health Centre</name>
+			<description><![CDATA[Matura Main Road, Matura<br>(868)-668-6276]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.063921,10.676196,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cumana Health Centre</name>
+			<description><![CDATA[Toco Main Road, Cumana Village, Cumana<br>(868)-670-8250]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.946671,10.792891000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toco Health Centre</name>
+			<description><![CDATA[Paria Main Road, Toco<br>(868)-670-8277]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.938324,10.836778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Souci Health Centre</name>
+			<description><![CDATA[Corner Paria Branch Road and George Street<br>(868)-670-2382]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.003212,10.838222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Matelot Health Centre</name>
+			<description><![CDATA[Main Road, Matelot<br>(868)-670-2428]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.12315,10.821124,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aranguez Health Centre</name>
+			<description><![CDATA[Aranguez Main Road, Aranguez<br>(868)-638-2120]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.444709,10.645456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Juan Health Centre</name>
+			<description><![CDATA[Real Street, San Juan<br>(868)-638-3618]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.448239,10.653876,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manzanilla Health Centre</name>
+			<description><![CDATA[Eastern Main Road, Manzanilla<br>(868)-668-2063]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.06011000000001,10.525208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mayaro District Health Facility</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.005771,10.294739,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guayaguayre Health Centre</name>
+			<description><![CDATA[Guayaguayare<br>(868)-630-8777]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.03227100000001,10.147434,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rio Claro Health Centre</name>
+			<description><![CDATA[Corner De Verteuil and Dougdeen Streets, Rio Claro<br>(868)-644-2236]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.173342,10.303575,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biche Health Centre</name>
+			<description><![CDATA[Canque Village, Biche<br>(868)-668-9053]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.132971999999995,10.431773,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indian Walk Health Centre</name>
+			<description><![CDATA[Petite Cafe, Moruga<br>(868)-655-2478]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.337944,10.272288,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moruga Health Centre</name>
+			<description><![CDATA[Lanse Mitan, Moruga<br>(868)-656-7022]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.27982900000001,10.087996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ste. Madeleine Health Centre</name>
+			<description><![CDATA[Manahambre Road, Ste. Madeleine<br>(868)-653-2303]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.426336,10.267105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Claxton Bay Health Centre</name>
+			<description><![CDATA[Southern Main Road, Claxton Bay<br>(868)-659-1646]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.460481,10.347442000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arouca Health Centre</name>
+			<description><![CDATA[Corner George Street and Golden Grove Road, Arouca<br>(868)-642-1065]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.338601000000004,10.628891,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tacarigua Health Centre</name>
+			<description><![CDATA[El Dorado Road, Tunapuna<br>(868)-662-4819]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.38196200000001,10.651925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Brea Health Centre</name>
+			<description><![CDATA[New Lands, La Brea<br>(868)-648-7562]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.622642,10.243567,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chatham Health Centre</name>
+			<description><![CDATA[Main Road, Belle View]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.731727,10.129934,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Point Fortin Health Centre</name>
+			<description><![CDATA[Techier Main Road, Point Fortin<br>(868)-648-2329]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.679804999999995,10.173387,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Granville Health Centre</name>
+			<description><![CDATA[Syfo Road, Granville<br>(868)-648-2736]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.79952300000001,10.129945,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cedros Health Centre</name>
+			<description><![CDATA[St. Marie Street, Bonasse<br>(868)-690-1440]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.857818,10.091939,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Icacos Health Centre</name>
+			<description><![CDATA[Main Road, Icacos<br>(868)-648-2724]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.914069,10.045987,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erin Health Centre</name>
+			<description><![CDATA[Main Road, Buenos Ayres<br>(868)-649-8562]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.65894,10.076443,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palo Seco Health Centre</name>
+			<description><![CDATA[Main Road, Palo Seco<br>(868)-649-4482]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.59232500000001,10.093273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fyzabad Health Centre</name>
+			<description><![CDATA[Main Road, Fyzabad<br>(868)-677-2034]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.54557400000001,10.181589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Penal Health Centre</name>
+			<description><![CDATA[Southern Main Road, Penal<br>(868)-647-4417]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.460277,10.167711,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Debe Health Centre</name>
+			<description><![CDATA[Wellington Road, Debe<br>(868)-647-6247]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.45222999999999,10.212003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siparia District Health Facility</name>
+			<description><![CDATA[High Street, Siparia<br>(868)-649-2380]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.50396500000001,10.144635,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Helena Health Centre</name>
+			<description><![CDATA[North Bank Road, St. Helena<br>(868)-669-1183, (868)-669-7027]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.34249,10.582274,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maloney Health Centre</name>
+			<description><![CDATA[Maloney Boulevard, Maloney Gardens<br>(868)-642-1330]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.31752999999999,10.619422,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Horquetta Health Centre</name>
+			<description><![CDATA[Arthur Murray Crescent, La Horquetta Phase III<br>(868)-643-0911]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.27617800000001,10.594603,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Talparo Health Centre</name>
+			<description><![CDATA[Talparo Community Centre, Talparo Main Road, Talparo<br>(868)-643-7309]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.269437999999994,10.516421,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Raphael Health Centre</name>
+			<description><![CDATA[Talparo Main Road, San Rafael<br>(868)-643-8645]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.272168,10.573125,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Lomas Health Centre</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.320325000000004,10.537228,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cunupia Health Centre</name>
+			<description><![CDATA[Larchu Trace, Cunupia<br>(868)-665-0183]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.371217,10.552263,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Todd's Road Health Centre</name>
+			<description><![CDATA[Flecher Road, Todd's Road<br>(868)-671-5176]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.333086,10.483663,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flanagin Town Health Centre</name>
+			<description><![CDATA[Main Rd, Flanagin Town<br>(868)-636-2982]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.315918,10.429359,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gran Couva Health Centre</name>
+			<description><![CDATA[Main Road, Gran Couva<br>(868)-679-9134]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.37204800000001,10.403815,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gasparillo Health Centre</name>
+			<description><![CDATA[Church Street, Gasparillo<br>(868)-650-1020]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.426773,10.31711,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tabaquite Health Centre</name>
+			<description><![CDATA[Main Road, Tabaquite<br>(868)-636-2989]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.301801,10.390677,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brothers Road Health Centre</name>
+			<description><![CDATA[Torrib Road, Tabaquite<br>(868)-656-2547]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.276191,10.337027,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Cuevas Health Centre</name>
+			<description><![CDATA[School Road, Las Cuevas<br>(868)-669-6302]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.392824999999995,10.784813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pembroke Street Health Centre (Mental Health)</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.510874,10.660513000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scarborough Health centre</name>
+			<description><![CDATA[Scarborough<br>(868)-639-2612]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.732347,11.179739,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mason Hall Health Centre</name>
+			<description><![CDATA[Mason Hall<br>(868)-639-4445]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.713008,11.217406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Castara Health Centre</name>
+			<description><![CDATA[Castara<br>(868)-639-2194]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.695112,11.279822,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Les Coteaux Health Centre</name>
+			<description><![CDATA[Les Coteaux<br>(868)-639-0069]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.740238,11.227756,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buccoo Health Centre</name>
+			<description><![CDATA[Buccoo<br>(868)-639-0750]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.80537300000001,11.181254,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Canaan Health Centre</name>
+			<description><![CDATA[Canaan<br>(868)-639-8829]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.815312999999996,11.159998000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scarborough Regional Hospital</name>
+			<styleUrl>#icon-73-nodesc</styleUrl>
+			<Point>
+				<coordinates>-60.727052,11.178455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Roxborough Health Centre</name>
+			<description><![CDATA[Roxborough<br>(868)-660-5155]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.58167600000001,11.249176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Belle Garden Health Centre</name>
+			<description><![CDATA[Belle Garden<br>(868)-660-5606]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.600693,11.230582,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pembroke Health Centre</name>
+			<description><![CDATA[Pembroke<br>(868)-660-5661]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.625659000000006,11.212297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. St. George Health Centre</name>
+			<description><![CDATA[Mt. St. George<br>(868)-660-2119]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.676932,11.1947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moriah Health Centre</name>
+			<description><![CDATA[Moriah<br>(868)-660-0092]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.716468000000006,11.248813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plymouth Health Centre</name>
+			<description><![CDATA[Plymouth<br>(868)-639-2982]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.77825,11.220831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Black Rock Outreach Centre</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-60.780910999999996,11.205066000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bethel Health Centre</name>
+			<description><![CDATA[Bethel<br>(868)-639-8580]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.78565300000001,11.181565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Speyside Health Centre</name>
+			<description><![CDATA[Speyside<br>(868)-660-4044]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.534684,11.299244,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Charlotteville Health Centre</name>
+			<description><![CDATA[Charlotteville<br>(868)-660-4392]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.54854,11.323057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Delaford Health Centre</name>
+			<description><![CDATA[Delaford<br>(868)-660-5566]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-60.565250999999996,11.258878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tobago Regional Health Authority</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-60.74348899999999,11.181275,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guapo Health Centre</name>
+			<description><![CDATA[Hubertson Young Street, Guapo<br>(868)-648-2208]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.646910000000005,10.180868,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Joseph Enhanced Health Centre</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.423788,10.649853,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morvant Health Centre</name>
+			<description><![CDATA[Lots A-B 212 Lady Young Avenue, Morvant]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<Point>
+				<coordinates>-61.478134999999995,10.66327,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blanchisseuse Health Centre</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.314035000000004,10.798377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Santa Cruz Health Centre</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-61.47064099999999,10.716956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scarborough General Hospital</name>
+			<styleUrl>#icon-73-nodesc</styleUrl>
+			<Point>
+				<coordinates>-60.75332199999999,11.180254,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-73-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/73-hospitals.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-73-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/73-hospitals.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-73'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-73-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-73-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-73-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/73-hospitals.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-73-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/73-hospitals.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-73-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-73-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-73-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
