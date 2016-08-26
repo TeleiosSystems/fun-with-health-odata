@@ -17,8 +17,8 @@ namespace Odata.Controllers
         public async Task<IHttpActionResult> Get()
         {
             var client = new HttpClient();
-            var tablesPath = System.Web.Hosting.HostingEnvironment.MapPath("~/Content/HealthFacilitiesList.txt");
-            var kmlPath = System.Web.Hosting.HostingEnvironment.MapPath("~/Content/HealthFacilities.kml.txt");
+            var tablesPath = System.Web.Hosting.HostingEnvironment.MapPath("~/Content/HealthFacilitiesList.html");
+            var kmlPath = System.Web.Hosting.HostingEnvironment.MapPath("~/Content/HealthFacilities.kml.html");
 
             var tables = File.ReadAllText(tablesPath);
             var kml = File.ReadAllText(kmlPath);
